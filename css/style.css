@@ -18,6 +18,7 @@ header{
 
 section{
     margin-left: 10px;
+    margin-right: 10px;
     margin-top: 30px;
 }
 
@@ -50,4 +51,22 @@ section{
 
 .article-list{
     padding-left: 15px;
+}
+
+table{
+    border-spacing: 0;
+    text-align: left;
+}
+
+.colonna-tre{
+    width: 50%;
+}
+
+thead{
+    background-color: #1FA9E5;
+    color: white;
+}
+
+.riga-colorata{
+    background-color: #B1E5F2;
 }
