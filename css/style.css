@@ -10,5 +10,32 @@ header{
 
 .logo-image{
     height: 100px;
-    margin-top: calc(200px - 100px);
+    margin-top: 80px;
+    margin-left: 10px;
+}
+
+section{
+    margin-left: 10px;
+}
+
+.title{
+    font-size: 45px;
+    margin-bottom: 5px;
+}
+
+.subtitle{
+    color: #8C8C8C;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.small-text{
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.subtitle > a{
+    text-decoration: none;
+    color: #29ADE6;
 }
