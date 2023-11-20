@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+
+header{
+    height: 200px;
+    background-color: #4EA0FF;
+    background-image: url(../img/pattern.png);
+}
+
+.logo-image{
+    height: 100px;
+    margin-top: calc(200px - 100px);
+}
