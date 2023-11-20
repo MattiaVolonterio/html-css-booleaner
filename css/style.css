@@ -45,6 +45,10 @@ section{
     color: #29ADE6;
 }
 
+.tim-1, .tim-2{
+    height: 550px;
+}
+
 .evidenziato{
     background-color: #FFFF00;
 }
@@ -90,6 +94,7 @@ thead{
 
 .graph-image{
     background-image: url(../img/graph.jpg);
+    margin-bottom: 30px;
 }
 
 .image-description{
