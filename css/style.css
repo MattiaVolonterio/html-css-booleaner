@@ -70,3 +70,31 @@ thead{
 .riga-colorata{
     background-color: #B1E5F2;
 }
+
+.images > h2{
+    color: #8C8C8C;
+}
+
+.images > div{
+    width: 300px;
+    height: 200px;
+    margin-top: 15px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.pc-image{
+    background-image: url(../img/monitor.jpg);
+}
+
+.graph-image{
+    background-image: url(../img/graph.jpg);
+}
+
+.image-description{
+    color: white;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
