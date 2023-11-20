@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 header{
@@ -13,7 +13,12 @@ header{
 .logo-image{
     height: 100px;
     margin-top: 80px;
-    margin-left: 10px;
+    /* margin-left: 10px; */
+}
+
+main, .logo-container{
+    width: 1200px;
+    margin: 0 auto;
 }
 
 section{
@@ -23,7 +28,7 @@ section{
 }
 
 .title{
-    font-size: 60px;
+    font-size: 45px;
     margin-top: 10px;
     margin-bottom: 5px;
 }
@@ -45,9 +50,9 @@ section{
     color: #29ADE6;
 }
 
-.tim-1, .tim-2{
+/* .tim-1, .tim-2{
     height: 550px;
-}
+} */
 
 .evidenziato{
     background-color: #FFFF00;
@@ -77,6 +82,7 @@ thead{
 
 .images > h2{
     color: #8C8C8C;
+    font-size: 20px;
 }
 
 .images > div{
